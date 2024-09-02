@@ -10,6 +10,10 @@ Directory Structure
 - `Loan` Python script of data training, model development, and experimentation.
 - `app.py` Python script for the Gradio user interface or testing.
 
+Download Dataset
+------------
+Open the data folder, and given the link to download the .csv dataset in kaggle, Download the dataset and put into the data folder. 
+
 Installation (Terminal)
 ------------
 pip install pandas scikit-learn lightgbm matplotlib joblib gradio
